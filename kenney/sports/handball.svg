@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="13px" height="12px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Layer0_4_FILL">
+        <path d="M1.85,1.6C1.783,1.633 1.733,1.683 1.7,1.75C0.567,2.983 0,4.383 0,5.95C0,7.583 0.567,9 1.7,10.2C1.733,10.2 1.767,10.217 1.8,10.25C3,11.417 4.417,12 6.05,12C7.75,12 9.167,11.383 10.3,10.15L10.25,10.25C11.417,9.05 12,7.617 12,5.95C12.033,4.35 11.45,2.95 10.25,1.75L10.25,1.7C9.117,0.567 7.717,0 6.05,0C4.45,0 3.05,0.533 1.85,1.6M6.05,2C7.15,2 8.067,2.367 8.8,3.1C9.6,3.933 10,4.883 10,5.95C10,7.05 9.6,8 8.8,8.8C8.067,9.6 7.15,10 6.05,10C4.95,10 3.983,9.6 3.15,8.8C2.383,8 2,7.05 2,5.95C2,4.883 2.383,3.933 3.15,3.1C3.983,2.367 4.95,2 6.05,2Z" style="fill:rgb(113,166,28);fill-rule:nonzero;"/>
+        <path d="M8.8,3.1C8.067,2.367 7.15,2 6.05,2C4.95,2 3.983,2.367 3.15,3.1C2.383,3.933 2,4.883 2,5.95C2,7.05 2.383,8 3.15,8.8C3.983,9.6 4.95,10 6.05,10C7.15,10 8.067,9.6 8.8,8.8C9.6,8 10,7.05 10,5.95C10,4.883 9.6,3.933 8.8,3.1Z" style="fill:rgb(149,217,39);fill-rule:nonzero;"/>
+    </g>
+</svg>
